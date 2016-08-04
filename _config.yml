@@ -1,4 +1,3 @@
-layout_spectrum: 0.1345694970805198
 typography_spectrum: 0.3907865558285266
 color:
   brandStrength: 0.7569367380347103
@@ -11,5 +10,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.1345694970805198
 name: Furniture
 title: My furniture site
+description: what I like
