@@ -1,0 +1,14 @@
+layout_spectrum: 0.1345694970805198
+typography_spectrum: 0.3907865558285266
+color:
+  brandStrength: 0.7569367380347103
+  lightness: 0.5101609150879085
+  saturation: 0.16035947646014392
+  rhythmicContrast: 0.33405542909167707
+  brandColors:
+    - '#6C6E58'
+    - '#3E423A'
+    - '#417378'
+    - '#A4CFBE'
+    - '#F4F7D9'
+name: Furniture
